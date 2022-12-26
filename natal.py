@@ -1,3 +1,7 @@
+# Reyso Teixera
+# 25/12/22
+
+
 from time import sleep
 x = '^'
 y = ' '
@@ -12,4 +16,4 @@ while(n<10):
 		print((y*(10-n)) + ((n+(n-1))*x))
 	n+=1
 
-print('HoHoHo!') 
+print('HoHoHo! FELIZ NATAL') 
